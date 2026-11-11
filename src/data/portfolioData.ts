@@ -49,7 +49,7 @@ export const PROJECTS_DATA: Project[] = [
       'Collaborated directly with vehicle engineering leads to monitor powertrain metrics, thermal dissipation, and real-world regenerative braking telemetry',
     ],
     technologies: ['SQL', 'Python', 'Microsoft Excel', 'Data Analysis', 'Powertrain Telemetry', 'CAN Bus Metrics'],
-    image: '/src/assets/images/project_vehicle_telemetry_1794417978901.jpg',
+    image: '/images/project-vehicle-telemetry.jpg',
     stats: [
       { label: 'Query Performance', value: '+42% Speedup' },
       { label: 'Dataset Volume', value: 'Multi-Million Rows' },
@@ -87,7 +87,7 @@ export const PROJECTS_DATA: Project[] = [
       'Mastered pointer manipulation, function pointers, and recursive algorithmic traversals with zero memory leaks verified via memory debuggers',
     ],
     technologies: ['C (C11/C17)', 'Pointers & Memory Pools', 'Data Structures', 'Algorithms', 'File I/O', 'GDB'],
-    image: '/src/assets/images/project_c_systems_1794417979957.jpg',
+    image: '/images/project-c-systems.jpg',
     githubUrl: 'https://github.com/karthikeyacheruvu/c-systems-memory-lab',
     stats: [
       { label: 'Memory Leakage', value: '0 Bytes' },
@@ -126,7 +126,7 @@ export const PROJECTS_DATA: Project[] = [
       'Reduced token consumption by 30% through concise instruction density and prompt token optimization techniques',
     ],
     technologies: ['Prompt Engineering', 'Claude 3.5 / 3.7', 'ChatGPT', 'Context Structuring', 'Few-Shot Learning', 'JSON Schema'],
-    image: '/src/assets/images/project_ai_prompt_1794417980197.jpg',
+    image: '/images/project-ai-prompt.jpg',
     githubUrl: 'https://github.com/karthikeyacheruvu/prompt-engineering-framework',
     stats: [
       { label: 'Token Efficiency', value: '+30% Optimized' },
@@ -165,7 +165,7 @@ export const PROJECTS_DATA: Project[] = [
       'Created executive documentation and technical presentations summarizing risk remediation roadmaps for enterprise stakeholders',
     ],
     technologies: ['IAM Architecture', 'Zero-Trust Security', 'RBAC Protocols', 'Risk Analysis', 'Cybersecurity Governance', 'TCS Frameworks'],
-    image: '/src/assets/images/project_cybersecurity_iam_1794417979483.jpg',
+    image: '/images/project-cybersecurity-iam.jpg',
     githubUrl: 'https://github.com/karthikeyacheruvu/cybersecurity-iam-simulation',
     stats: [
       { label: 'Simulation Partner', value: 'TCS / Forage' },

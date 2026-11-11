@@ -109,7 +109,7 @@ export const ExperienceTimeline: React.FC = () => {
                     <div className="relative rounded-2xl overflow-hidden border border-white/20 bg-black/60 shadow-[0_12px_36px_rgba(0,0,0,0.6),inset_0_1px_1px_rgba(255,255,255,0.2)] group">
                       <div className="relative aspect-[16/8] sm:aspect-[21/9] w-full overflow-hidden">
                         <img
-                          src="/src/assets/images/drums_kit_closeup_1794418670825.jpg"
+                          src="/images/drums-kit-closeup.jpg"
                           alt="Trinity College London Acoustic Drum Kit & Percussion"
                           referrerPolicy="no-referrer"
                           className={`w-full h-full object-cover object-center transition-transform duration-500 ${
